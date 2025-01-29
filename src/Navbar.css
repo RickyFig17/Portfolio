@@ -1,0 +1,11 @@
+.navbar {
+   width: 50%;
+}
+
+.link-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+li {
+}
